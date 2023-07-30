@@ -1,5 +1,5 @@
 # Sierpinski-Triangle
-Plays the chaos game and makes the Sierpinski triangle
+Plays the chaos game and makes the Sierpinski triangle using the Python Turtle module.
 
 The Sierpinski triangle is a self-similar fractal. It consists of an equilateral triangle, with smaller equilateral triangles recursively removed from its remaining area. It's named after the Polish mathematician Wacław Sierpiński.
 
