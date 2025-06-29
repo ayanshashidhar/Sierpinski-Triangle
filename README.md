@@ -7,3 +7,8 @@ The chaos game is played with an any-sided polygon, picking a random vertex, the
 
 Read more on Wikipedia:
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
+
+
+
+Ayan Shashidhar
+@ayanshashidhar
